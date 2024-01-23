@@ -1,0 +1,93 @@
+QnA:
+-   Q: My favorite drink is milk.
+    A: milk
+    K:
+    -   [news]
+
+-   Q: My favorite drink is chocolate.
+    A: chocolate
+    K:
+    -   [chocolate]
+
+-   Q: My favorite drink is orange juice 
+    A: orange juice
+    K:
+    -   [orange]
+
+-   Q: My favorite drink is apple juice.
+    A: apple juice
+    K:
+    -   [apple]
+
+-   Q: My favorite drink Coca Cola
+    A: Coca Cola
+    K:
+    -   [Coca,Cola]
+
+-   Q: My favorite drink is Soda.
+    A: soda
+    K:
+    -   [shoulder,soldier]
+-   Q: My favorite drink is Sprite.
+    A: sprite
+    K:
+    -   [sprite]
+
+-   Q: My favorite drink is tea.
+    A: tea
+    K:
+    -   [t,tea]
+
+-   Q: My favorite drink is beer.
+    A: beer
+    K:
+    -   [bear,bill,feels]
+
+-   Q: My name is William
+    A: He is  William
+    K:
+    -   [William,william]
+
+-   Q: My name is Jayden
+    A: He is Jayden
+    K:
+    -   [Jayden,jayden]
+
+-   Q: My name is Brian
+    A: He is Brian
+    K:
+    -   [Brian,brian]
+
+-   Q: My name is Tavis
+    A: He is Tavis
+    K:
+    -   [Tavis,tavis]
+
+-   Q: My name is Thomas
+    A: He is Thomas
+    K:
+    -   [Thomas,thomas]
+
+-   Q: My name is Kenny
+    A: He is Kenny
+    K:
+    -   [Kenny,kenny]
+
+-   Q: My name is Samuel
+    A: He is Samuel
+    K:
+    -   [Samuel,samuel]
+
+-   Q: My name is Peter
+    A: He is Peter
+    K:
+    -   [Peter,peter]
+
+-   Q: My name is May
+    A: She is May
+    K:
+    -   [May,may]
+
+
+
+

@@ -1,0 +1,6 @@
+dir:
+  root: "/home/pcms"
+  data: "my_dataset"
+
+classes: ["a"]
+mode: "valid"

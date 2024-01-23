@@ -1,0 +1,13 @@
+QnA:
+-   Q: see the bag with me
+    A: point
+    K:
+    -   [with]
+
+-   Q: help me to get to bag
+    A: bring
+    K:
+    -   [bag]
+    -   [get]
+
+
